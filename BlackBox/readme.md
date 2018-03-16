@@ -1,4 +1,4 @@
-**_WinBUGS14.zip = BlackBox + WinBUGS14 + WBDev + WBDiff + maemod_**
+**_WinBUGS14.zip = BlackBox 1.5 + WinBUGS 1.4.3 + WBDev + WBDiff + maemod_**
 
 **Installation**
 
